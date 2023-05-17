@@ -1,5 +1,5 @@
 # **FINTECH NETCENTS CASE STUDY REPORT** 
-
+![Logo](netcents_technology_inc_logo.jpg)
 ## **Introduction**
 
 * The world is constantly changing, and it appears that some cycles in the disruption, adaptation, and expansion processes that human beings go through leave a higher imprint in our memories, experiences, and therefore the ways we act in response to those changes get a hard look, we ask the hard questions, we conduct research studies to bring about the data that can be used to answer questions to disruption in cycles that "We used to know", and we can either willingly make a choice to reinvent ourselves, and choose to participate of the process of change, adaptation, and learning that the unknown may bring about, and with that opportunities, as well as setbacks. The alternative is to be surprised by the changing event, and not be an active participant of the change suddenly imposed on us. No time to prepare, and no time to plan, we are only left with the choice to carry about what the new cycle will bring about. 
