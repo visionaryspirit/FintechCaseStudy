@@ -38,12 +38,11 @@ NETCENTS incorporated was founded by founder, and CEO CLAYTON MOORE an exoerienc
 * The Company is currently onboarding merchants as quickly as possible with the expectation of growth created by the long term trends in the industry.
 * Because NetCents software is already installed but "dormant" on millions of terminals, terminal companies would not choose an alternative provider of cryptocurrency payments for merchants using their hardware, hence "trojan horse". 
 * NetCents is integrated into the majority of the payments industry, providing us direct access to over 15 million merchants globally and USD 1.557 trillion annually in transactions. Their goal is to convert 1% of these transactions to cryptocurrency, representing USD 15.57 billion in transactions annually.
-[NETCENTS](https://net-cents.com/). 
 * NetCents Merchant Platform
 * NetCents Visa Card Program
 * Non-Fungible Tokens 
 * Merchant Gateway Supporting payments everywhere merchants transact: Retail, Point of Sale, Ecommerce, and Invoicing
-* Asset Management System (https://net-cents.com)[https://blog.net-cents.com/wp-content/uploads/2021/06/B2B-Payments-with-Cryptocurrency.pdf]
+* Asset Management System 
 
 ## **Results**
 
