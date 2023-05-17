@@ -61,7 +61,8 @@ NETCENTS incorporated was founded by founder, and CEO CLAYTON MOORE an exoerienc
 
 ## **References**
 * [NetCents Technology Inc. website](https://www.net-cents.com)
-* [NetCents One Pager for Investors](./netcents-one-pager-INVESTORS.pdf)
+* [NetCents One Pager for Investors](./netcents-one%20pager-INVESTORS.pdf)
+
 
 
 
