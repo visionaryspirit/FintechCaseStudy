@@ -59,5 +59,5 @@ NETCENTS incorporated was founded by founder, and CEO CLAYTON MOORE an exoerienc
 
 * When I learned about the different options that NETCENTS have for business owners, and therefore encouraging customers to adopt cryptocurrencies to make these payments, it occured to me that maybe a customer that love a particular small business, or a digital store could serve as an embassador of NETCENTS by referring my favorite business to NETCENTS, if I referred businesses to begin embodying the concept of the free market, hard money, sound money, the value of the long term hold that a currency like bitcoin has, the power of technology, and the blockchain applications being built on these blockchains. Then NETCENTS could pay me a commission for business referall, me as the customer would then become a partner of NETCENTS, but also a bridge, to the relationship where the customer, the merchant, and the medium through where the transaction interact with one another in a platform has integration for it all. This became a reality 2 years ago. NETCENTS has now partnered up with users, and there is a huge community that talk about the world of crypto, the world of technology, the world of Fintech. 
 
-### References
-- [NetCents Technology Inc. website](https://www.net-cents.com)
+## References
+* [NetCents Technology Inc. website](https://www.net-cents.com)
